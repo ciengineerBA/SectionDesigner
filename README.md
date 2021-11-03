@@ -7,3 +7,4 @@ Programın yapabildikleri,
 2- Sabit eksenel yük altında Mx-My etkileşimi hesaplar
 3- Performans analizi için girilen kesitin akma yüzeyini çıkarır
 4- Performan analizi için girilen kesitin moment - eğrilik analizini yapar
+Program yazılırken TBDY' de verilen kurallar kullanılmıştır. 
