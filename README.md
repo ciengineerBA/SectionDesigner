@@ -1,5 +1,5 @@
 # SectionDesigner
-Fiber tabanlı kesit anali programı
+Fiber tabanlı kesit analiz programı
 Program C# üzerinden yazılmıştır. 
 Betonarme kesitlerin tasarımı ve performans analizi için gerekli olan değerlerin elde edilmesi için kullanılabilir.
 Programın yapabildikleri,
