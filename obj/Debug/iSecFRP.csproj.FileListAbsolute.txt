@@ -1,0 +1,12 @@
+C:\Users\Burak\Desktop\iSecFRP\Program\iSecFRP\iSecFRP\bin\Debug\iSecFRP.exe.config
+C:\Users\Burak\Desktop\iSecFRP\Program\iSecFRP\iSecFRP\bin\Debug\iSecFRP.exe
+C:\Users\Burak\Desktop\iSecFRP\Program\iSecFRP\iSecFRP\bin\Debug\iSecFRP.pdb
+C:\Users\Burak\Desktop\iSecFRP\Program\iSecFRP\iSecFRP\obj\Debug\iSecFRP.csprojAssemblyReference.cache
+C:\Users\Burak\Desktop\iSecFRP\Program\iSecFRP\iSecFRP\obj\Debug\iSecFRP.Properties.Resources.resources
+C:\Users\Burak\Desktop\iSecFRP\Program\iSecFRP\iSecFRP\obj\Debug\iSecFRP.csproj.GenerateResource.cache
+C:\Users\Burak\Desktop\iSecFRP\Program\iSecFRP\iSecFRP\obj\Debug\iSecFRP.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\iSecFRP\Program\iSecFRP\iSecFRP\obj\Debug\iSecFRP.exe
+C:\Users\Burak\Desktop\iSecFRP\Program\iSecFRP\iSecFRP\obj\Debug\iSecFRP.pdb
+C:\Users\Burak\Desktop\iSecFRP\Program\iSecFRP\iSecFRP\obj\Debug\iSecFRP.Form1.resources
+C:\Users\Burak\Desktop\iSecFRP\Program\iSecFRP\iSecFRP\obj\Debug\iSecFRP.analiz.resources
+C:\Users\Burak\Desktop\iSecFRP\Program\iSecFRP\iSecFRP\obj\Debug\iSecFRP.csproj.ResolveComReference.cache
