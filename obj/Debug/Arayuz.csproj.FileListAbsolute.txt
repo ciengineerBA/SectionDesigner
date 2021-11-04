@@ -1,0 +1,17 @@
+C:\Users\Burak\source\repos\Arayuz\Arayuz\bin\Debug\Arayuz.exe.config
+C:\Users\Burak\source\repos\Arayuz\Arayuz\bin\Debug\Arayuz.exe
+C:\Users\Burak\source\repos\Arayuz\Arayuz\bin\Debug\Arayuz.pdb
+C:\Users\Burak\source\repos\Arayuz\Arayuz\obj\Debug\Arayuz.csprojAssemblyReference.cache
+C:\Users\Burak\source\repos\Arayuz\Arayuz\obj\Debug\Arayuz.Form1.resources
+C:\Users\Burak\source\repos\Arayuz\Arayuz\obj\Debug\Arayuz.Properties.Resources.resources
+C:\Users\Burak\source\repos\Arayuz\Arayuz\obj\Debug\Arayuz.csproj.GenerateResource.cache
+C:\Users\Burak\source\repos\Arayuz\Arayuz\obj\Debug\Arayuz.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\Arayuz\Arayuz\obj\Debug\Arayuz.exe
+C:\Users\Burak\source\repos\Arayuz\Arayuz\obj\Debug\Arayuz.pdb
+C:\Users\Burak\source\repos\Arayuz\Arayuz\obj\Debug\Arayuz.Form2.resources
+C:\Users\Burak\source\repos\Arayuz\Arayuz\obj\Debug\Arayuz.csproj.ResolveComReference.cache
+C:\Users\Burak\source\repos\Arayuz\Arayuz\bin\Debug\Interop.Nv3DVisionIePluginLib.dll
+C:\Users\Burak\source\repos\Arayuz\Arayuz\bin\Debug\AxInterop.Nv3DVisionIePluginLib.dll
+C:\Users\Burak\source\repos\Arayuz\Arayuz\obj\Debug\Interop.Nv3DVisionIePluginLib.dll
+C:\Users\Burak\source\repos\Arayuz\Arayuz\obj\Debug\AxInterop.Nv3DVisionIePluginLib.dll
+C:\Users\Burak\source\repos\Arayuz\Arayuz\obj\Debug\Interop.MLApp.dll
